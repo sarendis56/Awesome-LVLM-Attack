@@ -247,6 +247,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Peng-Fei Zhang, Zi Huang
   * University of Queensland
   * [Arxiv2026] https://arxiv.org/abs/2601.10313
+* **Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models** |  #
+  * Xinwei Zhang, Li Bai, Tianwei Zhang, Youqian Zhang, Qingqing Ye, Yingnan Zhao, Ruochen Du, Haibo Hu
+  * The Hong Kong Polytechnic University, Nanyang Technological University, Harbin Engineering University
+  * [Arxiv2026] https://arxiv.org/abs/2602.09431
+* **When and Where to Attack? Stage-wise Attention-Guided Adversarial Attack on Large Vision Language Models** |  #
+  * Jaehyun Kwak, Nam Cao, Boryeong Cho, Segyu Lee, Sumyeong Ahn, Se-Young Yun
+  * KAIST, KENTECH
+  * [Arxiv2026] https://arxiv.org/abs/2602.04356
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -477,6 +485,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xiangdong Hu, Yangyang Jiang, Qin Hu, Xiaojun Jia
   * Georgia State University, Nanyang Technological University
   * [Arxiv2026] https://arxiv.org/abs/2601.03416
+* **When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models** | #
+  * Jiacheng Hou, Yining Sun, Ruochong Jin, Haochen Han, Fangming Liu, Wai Kin Victor Chan, Alex Jinpeng Wang
+  * Tsinghua University, Peng Cheng Laboratory, Central South University
+  * [Arxiv2026] https://arxiv.org/abs/2602.10179
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -547,6 +559,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Chen Ling, Kai Hu, Hangcheng Liu, Xingshuo Han, Tianwei Zhang, Changhai Ou
   * Wuhan University, Nanyang Technological University, Nanjing University of Aeronautics and Astronautics
   * [Arxiv2026] https://arxiv.org/abs/2601.17383
+* **Multi-Turn Adaptive Prompting Attack on Large Vision-Language Models** |  #
+  * In Chong Choi, Jiacheng Zhang, Feng Liu, Yiliao Song
+  * The University of Melbourne, The University of Adelaide
+  * [Arxiv2026] https://arxiv.org/abs/2602.14399
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
@@ -617,6 +633,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zihan Wang, Guansong Pang, Wenjun Miao, Jin Zheng, Xiao Bai
   * Beihang University, Singapore Management University
   * [Arxiv2025] https://arxiv.org/abs/2511.10098
+* **AGMark: Attention-Guided Dynamic Watermarking for Large Vision-Language Models** |  #
+  * Yue Li, Xin Yi, Dongsheng Shi, Yongyi Cui, Gerard de Melo, Linlin Wang
+  * East China Normal University, University of Potsdam
+  * [Arxiv2026] https://arxiv.org/abs/2602.09611
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
