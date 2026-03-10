@@ -255,6 +255,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jaehyun Kwak, Nam Cao, Boryeong Cho, Segyu Lee, Sumyeong Ahn, Se-Young Yun
   * KAIST, KENTECH
   * [Arxiv2026] https://arxiv.org/abs/2602.04356
+* **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
+  * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
+  * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
+  * [TIFS2026] https://ieeexplore.ieee.org/abstract/document/11421907
 * **PA-Attack: Guiding Gray-Box Attacks on LVLM Vision Encoders with Prototypes and Attention** |  #
   * Hefei Mei, Zirui Wang, Chang Xu, Jianyuan Guo, Minjing Dong
   * City University of Hong Kong, The University of Sydney
