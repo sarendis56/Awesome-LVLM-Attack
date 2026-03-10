@@ -255,6 +255,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jaehyun Kwak, Nam Cao, Boryeong Cho, Segyu Lee, Sumyeong Ahn, Se-Young Yun
   * KAIST, KENTECH
   * [Arxiv2026] https://arxiv.org/abs/2602.04356
+* **PA-Attack: Guiding Gray-Box Attacks on LVLM Vision Encoders with Prototypes and Attention** |  #
+  * Hefei Mei, Zirui Wang, Chang Xu, Jianyuan Guo, Minjing Dong
+  * City University of Hong Kong, The University of Sydney
+  * [CVPR2026] https://arxiv.org/abs/2602.19418
+* **Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models** |  #
+  * Yuanbo Li, Tianyang Xu, Cong Hu, Tao Zhou, Xiao-Jun Wu, Josef Kittler
+  * Jiangnan University, University of Surrey
+  * [CVPR2026] https://arxiv.org/abs/2603.04846
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -563,6 +571,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * In Chong Choi, Jiacheng Zhang, Feng Liu, Yiliao Song
   * The University of Melbourne, The University of Adelaide
   * [Arxiv2026] https://arxiv.org/abs/2602.14399
+* **Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions** |  #
+  * Neha Nagaraja, Lan Zhang, Zhilong Wang, Bo Zhang, Pawan Patil
+  * Northern Arizona University, Bytedance
+  * [Arxiv2026] https://arxiv.org/abs/2603.03637
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
@@ -735,6 +747,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuxuan Zhou, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
   * Tsinghua University, Shenzhen University, ByteDance
   * [Arxiv2025] https://arxiv.org/abs/2511.07315
+* **SlowBA: An efficiency backdoor attack towards VLM-based GUI agents** |  #
+  * Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
+  * Shanghai Jiao Tong University
+  * [Arxiv2026] https://arxiv.org/abs/2603.08316
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
