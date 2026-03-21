@@ -267,6 +267,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuanbo Li, Tianyang Xu, Cong Hu, Tao Zhou, Xiao-Jun Wu, Josef Kittler
   * Jiangnan University, University of Surrey
   * [CVPR2026] https://arxiv.org/abs/2603.04846
+* **Spatial-Spectral Homogeneous Attacks on Physical-World Large Vision-Language Models** |  #
+  * Daizong Liu, Baoquan Chen, Wei Hu
+  * Wuhan University, Peking University
+  * [AAAI2026] https://ojs.aaai.org/index.php/AAAI/article/view/37647
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -501,6 +505,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiacheng Hou, Yining Sun, Ruochong Jin, Haochen Han, Fangming Liu, Wai Kin Victor Chan, Alex Jinpeng Wang
   * Tsinghua University, Peng Cheng Laboratory, Central South University
   * [Arxiv2026] https://arxiv.org/abs/2602.10179
+* **Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models** | #
+  * Quanchen Zou, Moyang Chen, Zonghao Ying, Wenzhuo Xu, Yisong Xiao, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
+  * 360 AI Security Lab, Wenzhou-Kean University, Beihang University
+  * [Arxiv2026] https://arxiv.org/abs/2603.09246
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -773,3 +781,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Juncheng Li, Yige Li, Hanxun Huang, Yunhao Chen, Xin Wang, Yixu Wang, Xingjun Ma, Yu-Gang Jiang
   * Fudan University, Singapore Management University, The University of Melbourne
   * [Arxiv2025] https://arxiv.org/abs/2511.18921
+* **VisualLeakBench: Auditing the Fragility of Large Vision-Language Models against PII Leakage and Social Engineering** |  #
+  * Youting Wang, Yuan Tang, Yitian Qian, Chen Zhao
+  * Northeastern University, Carnegie Mellon University, Boston University, New York University
+  * [Arxiv2026] https://arxiv.org/abs/2603.13385
