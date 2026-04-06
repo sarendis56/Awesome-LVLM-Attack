@@ -255,6 +255,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jaehyun Kwak, Nam Cao, Boryeong Cho, Segyu Lee, Sumyeong Ahn, Se-Young Yun
   * KAIST, KENTECH
   * [Arxiv2026] https://arxiv.org/abs/2602.04356
+* **Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models** |  #
+  * Chengyin Hu, Yuxian Dong, Yikun Guo, Xiang Chen, Junqi Wu, Jiahuan Long, Yiwei Wei, Tingsong Jiang, Wen Yao
+  * n/a
+  * [Arxiv2026] https://arxiv.org/abs/2604.03117
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -587,6 +591,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Neha Nagaraja, Lan Zhang, Zhilong Wang, Bo Zhang, Pawan Patil
   * Northern Arizona University, Bytedance
   * [Arxiv2026] https://arxiv.org/abs/2603.03637
+* **Adversarial Prompt Injection Attack on Multimodal Large Language Models** |  #
+  * Meiwen Ding, Song Xia, Chenqi Kong, Xudong Jiang
+  * Nanyang Technological University
+  * [Arxiv2026] https://arxiv.org/abs/2603.29418
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
