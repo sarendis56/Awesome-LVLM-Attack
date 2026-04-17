@@ -259,6 +259,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Chengyin Hu, Yuxian Dong, Yikun Guo, Xiang Chen, Junqi Wu, Jiahuan Long, Yiwei Wei, Tingsong Jiang, Wen Yao
   * n/a
   * [Arxiv2026] https://arxiv.org/abs/2604.03117
+* **Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks** |  #
+  * Yingying Zhao, Chengyin Hu, Qike Zhang, Xin Li, Xin Wang, Yiwei Wei, Jiujiang Guo, Jiahuan Long, Tingsong Jiang, Wen Yao
+  * n/a
+  * [Arxiv2026] https://arxiv.org/abs/2604.12833
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -275,6 +279,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Daizong Liu, Baoquan Chen, Wei Hu
   * Wuhan University, Peking University
   * [AAAI2026] https://ojs.aaai.org/index.php/AAAI/article/view/37647
+* **Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking** |  #
+  * Jingru Li, Wei Ren, Tianqing Zhu
+  * China University of Geosciences, City University of Macau
+  * [ACL2026] https://arxiv.org/abs/2604.10299
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -513,6 +521,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Quanchen Zou, Moyang Chen, Zonghao Ying, Wenzhuo Xu, Yisong Xiao, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
   * 360 AI Security Lab, Wenzhou-Kean University, Beihang University
   * [Arxiv2026] https://arxiv.org/abs/2603.09246
+* **Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs** | #
+  * Jianhao Chen, Haoyang Chen, Hanjie Zhao, Haozhe Liang, Tieyun Qian
+  * Wuhan University, Tianjin University, University of the Chinese Academy of Sciences
+  * [Arxiv2026] https://arxiv.org/abs/2604.12616
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
